@@ -27,7 +27,7 @@ Open Api를 사용<br/>
 <br/>
 
 ### Image Search App
-<img src="/project-images/imageSearch.png" style="width: 200px">
+<img src="/project-images/imageSearch.png" style="width: 500px">
 
 
 
