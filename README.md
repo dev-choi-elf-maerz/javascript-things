@@ -24,6 +24,10 @@ Open Api를 사용<br/>
 ### Weather App
 <img src="/project-images/weather.png" style="height: 400px" />
 
+<br/>
+
+### Image Search App
+<img src="/project-images/imageSearch.png" style="width: 200px">
 
 
 
