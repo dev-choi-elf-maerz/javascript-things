@@ -12,20 +12,17 @@
 Open Api를 사용<br/>
 
 ### QRCode Generator App
-<img src="/project-images/qr-1.png" style="height: 400px" />
-<img src="/project-images/qr-2.png" style="height: 400px" />
+<img src="/project-images/qrcode.png" style="height: 400px" />
 
 <br />
 
 ### Toast Notification
-<img src="/project-images/nc-1.png" style="height: 400px" />
-<img src="/project-images/nc-2.png" style="height: 400px" />
+<img src="/project-images/toastNofification.png" style="height: 400px" />
 
 <br />
 
 ### Weather App
-<img src="/project-images/wt-1.png" style="height: 400px" />
-<img src="/project-images/wt-2.png" style="height: 400px" />
+<img src="/project-images/weather.png" style="height: 400px" />
 
 
 
